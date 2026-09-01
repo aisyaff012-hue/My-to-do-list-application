@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">My To-Do List</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Organise Your Daily Tasks</string>
+    <string name="home_subtitle">Welcome! This app helps students manage daily tasks easily.</string>
+    <string name="btn_start">Start To-Do List</string>
+    <string name="btn_about">About Me</string>
+
+    <!-- Task Screen -->
+    <string name="task_screen_title">My Daily Tasks</string>
+    <string name="task_input_hint">Enter a new task</string>
+    <string name="btn_add_task">Add Task</string>
+    <string name="no_tasks_message">No tasks yet. Add your first task above!</string>
+    <string name="task_count_format">%1$d of %2$d tasks completed</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_delete">Delete</string>
+
+    <!-- About Screen -->
+    <string name="about_screen_title">About Me</string>
+    <string name="about_name">Name: Your Name</string>
+    <string name="about_student_id">Student ID: Your Student ID</string>
+    <string name="about_programme">Programme: Your Programme</string>
+    <string name="about_course">Course: Mobile Application Development</string>
+    <string name="about_description">This To-Do List App helps students organize daily tasks and complete them on time.</string>
+
+    <!-- Common -->
+    <string name="btn_back_home">Back Home</string>
+
+</resources>
